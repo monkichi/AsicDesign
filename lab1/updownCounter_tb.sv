@@ -1,4 +1,13 @@
-
+/***************************************************************************
+// *** ***
+// *** EE 527 L Experiment #1 Christian Zamudio, Spring, 2019 ***
+// *** ***
+// *** Experiment #1 Verilog Coding and Simulation Review ***
+// *** ***
+// ***************************************************************************
+// *** Filename: updownCounter_tb.sv Created by Christian Zamudio, Date 4-02-19
+//*** --- revision history, if any, goes here --- ***
+// ***************************************************************************//
 `timescale 10ns/10ns
 module updownCounter_tb;
  parameter COUNTER_SIZE = 2;

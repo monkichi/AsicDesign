@@ -1,0 +1,575 @@
+Chronologic VCS simulator copyright 1991-2017
+Contains Synopsys proprietary information.
+Compiler version N-2017.12-SP2-2_Full64; Runtime version N-2017.12-SP2-2_Full64;  Feb  6 21:59 2019
+time =                    0 clk = 0 n_rst = 0 up_dwn = 0 count1=x count2=  x 
+ 
+time =                    5 clk = 1 n_rst = 0 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   10 clk = 0 n_rst = 0 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   15 clk = 1 n_rst = 1 up_dwn = 1 count1=1 count2=  1 
+ 
+time =                   20 clk = 0 n_rst = 1 up_dwn = 1 count1=1 count2=  1 
+ 
+time =                   25 clk = 1 n_rst = 1 up_dwn = 1 count1=2 count2=  2 
+ 
+time =                   30 clk = 0 n_rst = 1 up_dwn = 1 count1=2 count2=  2 
+ 
+time =                   35 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  3 
+ 
+time =                   40 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  3 
+ 
+time =                   45 clk = 1 n_rst = 1 up_dwn = 0 count1=2 count2=  2 
+ 
+time =                   50 clk = 0 n_rst = 1 up_dwn = 0 count1=2 count2=  2 
+ 
+time =                   55 clk = 1 n_rst = 1 up_dwn = 0 count1=1 count2=  1 
+ 
+time =                   60 clk = 0 n_rst = 1 up_dwn = 0 count1=1 count2=  1 
+ 
+time =                   65 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   70 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   75 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   80 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   85 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   90 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                   95 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  100 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  105 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  110 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  115 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  120 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  125 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  130 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  135 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  140 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  145 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  150 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  155 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  160 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  165 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  170 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  175 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  180 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  185 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  190 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  195 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  200 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  205 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  210 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  215 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  220 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  225 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  230 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  235 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  240 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  245 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  250 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  255 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  260 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  265 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  270 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  275 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  280 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  285 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  290 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  295 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  300 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  305 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  310 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  315 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  320 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  325 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  330 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  335 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  340 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  345 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  350 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  355 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  360 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  365 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  370 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  375 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  380 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  385 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  390 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  395 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  400 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  405 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  410 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  415 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  420 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  425 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  430 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  435 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  440 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  445 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  450 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  455 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  460 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  465 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  470 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  475 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  480 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  485 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  490 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  495 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  500 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  505 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  510 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  515 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  520 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  525 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  530 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  535 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  540 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  545 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  550 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  555 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  560 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  565 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  570 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  575 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  580 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  585 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  590 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  595 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  600 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  605 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  610 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  615 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  620 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  625 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  630 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  635 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  640 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                  645 clk = 1 n_rst = 0 up_dwn = 1 count1=0 count2=  0 
+ 
+time =                  650 clk = 0 n_rst = 0 up_dwn = 1 count1=0 count2=  0 
+ 
+time =                  655 clk = 1 n_rst = 0 up_dwn = 1 count1=0 count2=  0 
+ 
+time =                  660 clk = 0 n_rst = 0 up_dwn = 1 count1=0 count2=  0 
+ 
+time =                  665 clk = 1 n_rst = 1 up_dwn = 1 count1=1 count2=  1 
+ 
+time =                  670 clk = 0 n_rst = 1 up_dwn = 1 count1=1 count2=  1 
+ 
+time =                  675 clk = 1 n_rst = 1 up_dwn = 1 count1=2 count2=  2 
+ 
+time =                  680 clk = 0 n_rst = 1 up_dwn = 1 count1=2 count2=  2 
+ 
+time =                  685 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  3 
+ 
+time =                  690 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  3 
+ 
+time =                  695 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  4 
+ 
+time =                  700 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  4 
+ 
+time =                  705 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  5 
+ 
+time =                  710 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  5 
+ 
+time =                  715 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  6 
+ 
+time =                  720 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  6 
+ 
+time =                  725 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  7 
+ 
+time =                  730 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  7 
+ 
+time =                  735 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  8 
+ 
+time =                  740 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  8 
+ 
+time =                  745 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2=  9 
+ 
+time =                  750 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2=  9 
+ 
+time =                  755 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 10 
+ 
+time =                  760 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 10 
+ 
+time =                  765 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 11 
+ 
+time =                  770 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 11 
+ 
+time =                  775 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 12 
+ 
+time =                  780 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 12 
+ 
+time =                  785 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 13 
+ 
+time =                  790 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 13 
+ 
+time =                  795 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 14 
+ 
+time =                  800 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 14 
+ 
+time =                  805 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  810 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  815 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  820 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  825 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  830 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  835 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  840 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  845 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  850 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  855 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  860 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  865 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  870 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  875 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  880 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  885 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  890 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  895 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  900 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  905 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  910 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  915 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  920 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  925 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  930 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  935 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  940 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  945 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  950 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  955 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  960 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  965 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  970 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  975 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  980 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  985 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  990 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                  995 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1000 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1005 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1010 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1015 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1020 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1025 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1030 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1035 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1040 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1045 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1050 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1055 clk = 1 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1060 clk = 0 n_rst = 1 up_dwn = 1 count1=3 count2= 15 
+ 
+time =                 1065 clk = 1 n_rst = 1 up_dwn = 0 count1=2 count2= 14 
+ 
+time =                 1070 clk = 0 n_rst = 1 up_dwn = 0 count1=2 count2= 14 
+ 
+time =                 1075 clk = 1 n_rst = 1 up_dwn = 0 count1=1 count2= 13 
+ 
+time =                 1080 clk = 0 n_rst = 1 up_dwn = 0 count1=1 count2= 13 
+ 
+time =                 1085 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2= 12 
+ 
+time =                 1090 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2= 12 
+ 
+time =                 1095 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2= 11 
+ 
+time =                 1100 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2= 11 
+ 
+time =                 1105 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2= 10 
+ 
+time =                 1110 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2= 10 
+ 
+time =                 1115 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  9 
+ 
+time =                 1120 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  9 
+ 
+time =                 1125 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  8 
+ 
+time =                 1130 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  8 
+ 
+time =                 1135 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  7 
+ 
+time =                 1140 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  7 
+ 
+time =                 1145 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  6 
+ 
+time =                 1150 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  6 
+ 
+time =                 1155 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  5 
+ 
+time =                 1160 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  5 
+ 
+time =                 1165 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  4 
+ 
+time =                 1170 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  4 
+ 
+time =                 1175 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  3 
+ 
+time =                 1180 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  3 
+ 
+time =                 1185 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  2 
+ 
+time =                 1190 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  2 
+ 
+time =                 1195 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  1 
+ 
+time =                 1200 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  1 
+ 
+time =                 1205 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1210 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1215 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1220 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1225 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1230 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1235 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1240 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1245 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1250 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1255 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1260 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1265 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1270 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1275 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1280 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1285 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1290 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1295 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1300 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1305 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1310 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1315 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1320 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1325 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1330 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1335 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1340 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1345 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1350 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1355 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1360 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1365 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1370 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1375 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1380 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1385 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1390 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1395 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1400 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1405 clk = 1 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+time =                 1410 clk = 0 n_rst = 1 up_dwn = 0 count1=0 count2=  0 
+ 
+$finish called from file "updownCounter_tb.sv", line 36.
+$finish at simulation time                 1415
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 14150 ns
+CPU Time:      0.240 seconds;       Data structure size:   0.0Mb
+Wed Feb  6 21:59:02 2019

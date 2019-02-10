@@ -1,0 +1,5 @@
+vcs -full64 -sverilog -debug updownCounter.sv lab1b.sv
+today=`date '+%Y_%m_%d__%H_%M_%S'`;
+simv | tee lab1_$today.log
+
+

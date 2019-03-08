@@ -1,5 +1,5 @@
-vcs -full64 -sverilog -debug updownCounter.sv lab1b.sv lab1b_tb.sv
-today=`date '+%Y_%m_%d__%H_%M_%S'`;
-simv | tee lab1_$today.log
+vcs -full64 -sverilog -debug UpdownCounter.sv lab1b.sv lab1b_100counters.sv 
+//today=`date '+%Y_%m_%d__%H_%M_%S'`;
+//simv | tee lab1_$today.log
 
 

@@ -1,0 +1,67 @@
+ 
+****************************************
+Report : design
+Design : lab1b
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 15:45:59 2019
+****************************************
+
+Design allows ideal nets on clock nets.
+
+Library(s) Used:
+
+    lsi_10k (File: /opt/synopsys/syn/O-2018.06-SP1/libraries/syn/lsi_10k.db)
+
+Local Link Library:
+
+    {lsi_10k.db}
+
+Flip-Flop Types:
+
+    No flip-flop types specified.
+
+Latch Types:
+
+    No latch types specified.
+
+Operating Conditions:
+
+
+    Operating Condition Name : nom_pvt
+    Library : lsi_10k
+    Process :   1.00
+    Temperature :  25.00
+    Voltage :   5.00
+    Interconnect Model : balanced_tree
+
+Wire Loading Model:
+
+    No wire loading specified.
+
+
+Wire Loading Model Mode: top.
+
+Timing Ranges:
+
+    No timing ranges specified.
+
+Pin Input Delays:
+
+    None specified.
+
+Pin Output Delays:
+
+    None specified.
+
+Disabled Timing Arcs:
+
+    No arcs disabled.
+
+Required Licenses:
+
+    None Required
+
+Design Parameters:
+
+    None specified.
+1

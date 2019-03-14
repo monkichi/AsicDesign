@@ -1,0 +1,26 @@
+ 
+****************************************
+Report : reference
+Design : lab1b
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 15:45:59 2019
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+UpdownCounter_COUNTER_SIZE16    688.000000       1    688.000000  h, n
+UpdownCounter_COUNTER_SIZE32   1220.000000       1   1220.000000  h, n
+-----------------------------------------------------------------------------
+Total 2 references                                   1908.000000
+1

@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : lab1b_100counters
+Version: O-2018.06-SP1
+Date   : Sun Mar 10 19:11:45 2019
+****************************************
+
+Library(s) Used:
+
+    lsi_10k (File: /opt/synopsys/syn/O-2018.06-SP1/libraries/syn/lsi_10k.db)
+
+Number of ports:                        35502
+Number of nets:                        123677
+Number of cells:                        89835
+Number of combinational cells:          84335
+Number of sequential cells:              4800
+Number of macros/black boxes:               0
+Number of buf/inv:                      17793
+Number of references:                     100
+
+Combinational area:             134286.000000
+Buf/Inv area:                    23798.000000
+Noncombinational area:           46741.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                181027.000000
+Total area:                 undefined
+1

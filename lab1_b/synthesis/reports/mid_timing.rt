@@ -1,0 +1,51 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : lab1b
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 15:45:59 2019
+****************************************
+
+Operating Conditions: nom_pvt   Library: lsi_10k
+Wire Load Model Mode: top
+
+  Startpoint: count2/COUNT_reg[29]
+              (rising edge-triggered flip-flop clocked by CLK)
+  Endpoint: count2/COUNT_reg[0]
+            (rising edge-triggered flip-flop clocked by CLK)
+  Path Group: CLK
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock CLK (rise edge)                    0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  count2/COUNT_reg[29]/CP (FD2P)           0.00       0.00 r
+  count2/COUNT_reg[29]/QN (FD2P)           1.83       1.83 r
+  count2/U7/Z (AN4)                        1.12       2.95 r
+  count2/U12/Z (ND6)                       1.27       4.22 f
+  count2/U78/Z (NR2P)                      0.82       5.03 r
+  count2/U79/Z (MUX21LP)                   0.49       5.52 f
+  count2/U51/Z (AN3P)                      1.50       7.02 f
+  count2/U167/Z (AO2)                      1.08       8.10 r
+  count2/U169/Z (ND2)                      0.22       8.32 f
+  count2/COUNT_reg[0]/D (FD2P)             0.00       8.32 f
+  data arrival time                                   8.32
+
+  clock CLK (rise edge)                    5.00       5.00
+  clock network delay (ideal)              0.00       5.00
+  count2/COUNT_reg[0]/CP (FD2P)            0.00       5.00 r
+  library setup time                      -0.85       4.15
+  data required time                                  4.15
+  -----------------------------------------------------------
+  data required time                                  4.15
+  data arrival time                                  -8.32
+  -----------------------------------------------------------
+  slack (VIOLATED)                                   -4.17
+
+
+1

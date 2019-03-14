@@ -1,0 +1,26 @@
+{
+    "CLKEN": [
+        "CLKEN",
+        "rwf9w",
+        "module",
+        1
+    ],
+    "DEC_CNT": [
+        "DEC_CNT",
+        "hqMe7",
+        "module",
+        2
+    ],
+    "tb_BER_TX": [
+        "tb_BER_TX",
+        "s1NQn",
+        "module",
+        3
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        4
+    ]
+}

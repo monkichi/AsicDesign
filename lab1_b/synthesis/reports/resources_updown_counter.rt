@@ -1,0 +1,22 @@
+ 
+****************************************
+Report : resources
+Design : UpdownCounter
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 20:54:38 2019
+****************************************
+
+Resource Sharing Report for design UpdownCounter in file
+        /home/users8/cz584688/ece527/AsicDesign/lab1_b/sourcecode/UpdownCounter.sv
+
+===============================================================================
+|          |              |            | Contained     |                      |
+| Resource | Module       | Parameters | Resources     | Contained Operations |
+===============================================================================
+| r57      | DW01_inc     | width=4    |               | add_38               |
+| r59      | DW01_dec     | width=4    |               | sub_46               |
+===============================================================================
+
+
+No implementations to report
+1

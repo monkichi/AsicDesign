@@ -1,0 +1,43 @@
+Information: Updating graph... (UID-83)
+ 
+****************************************
+Report : cell
+Design : UpdownCounter
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 20:54:38 2019
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+COUNT_reg[0]              FD2             lsi_10k         9.000000  n
+COUNT_reg[1]              FD2             lsi_10k         9.000000  n
+COUNT_reg[2]              FD2             lsi_10k         9.000000  n
+COUNT_reg[3]              FD2             lsi_10k         9.000000  n
+U21                       IVP             lsi_10k         1.000000  
+U22                       AO2             lsi_10k         2.000000  
+U23                       ND2             lsi_10k         1.000000  
+U24                       AO3             lsi_10k         2.000000  
+U25                       AO2             lsi_10k         2.000000  
+U26                       AO3             lsi_10k         2.000000  
+U27                       AO7             lsi_10k         2.000000  
+U28                       AO3             lsi_10k         2.000000  
+U29                       IVP             lsi_10k         1.000000  
+U30                       NR3             lsi_10k         2.000000  
+U31                       EN              lsi_10k         3.000000  
+U32                       ND2             lsi_10k         1.000000  
+U33                       EN              lsi_10k         3.000000  
+U34                       AO4             lsi_10k         2.000000  
+U35                       AO2             lsi_10k         2.000000  
+U36                       ND3             lsi_10k         2.000000  
+U37                       EN              lsi_10k         3.000000  
+U38                       AN3             lsi_10k         2.000000  
+--------------------------------------------------------------------------------
+Total 22 cells                                            71.000000
+1

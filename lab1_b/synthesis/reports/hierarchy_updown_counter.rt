@@ -1,0 +1,21 @@
+ 
+****************************************
+Report : hierarchy
+Design : UpdownCounter
+Version: O-2018.06-SP1
+Date   : Wed Mar 13 20:54:38 2019
+****************************************
+
+UpdownCounter
+    AN3             lsi_10k
+    AO2             lsi_10k
+    AO3             lsi_10k
+    AO4             lsi_10k
+    AO7             lsi_10k
+    EN              lsi_10k
+    FD2             lsi_10k
+    IVP             lsi_10k
+    ND2             lsi_10k
+    ND3             lsi_10k
+    NR3             lsi_10k
+1
